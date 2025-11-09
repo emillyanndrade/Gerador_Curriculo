@@ -19,7 +19,6 @@ O sistema permite que o usuário preencha seus dados pessoais, experiências pro
 ## 🚀 Como Usar
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/EmillyAnndarade/Gerador_Curriculo.git
 http://localhost/Gerador_Curriculo/index.php/index.php
 
 
