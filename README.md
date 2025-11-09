@@ -1,21 +1,26 @@
+# 📄 Gerador de Currículo
 
-# Gerador de Currículo
+## 💡 Descrição
+Projeto de **gerador de currículos online** desenvolvido com PHP, HTML, CSS, JavaScript e **Bootstrap**.  
 
-## Descrição
-Este projeto é um **gerador de currículos online** desenvolvido em PHP para o backend, HTML, CSS e JavaScript no frontend, utilizando **Bootstrap** para o design responsivo.  
+O sistema permite que o usuário preencha seus dados pessoais, experiências profissionais e referências pessoais, e gere um currículo pronto para download ou impressão.
 
-O usuário pode preencher seus dados pessoais, experiências profissionais e referências pessoais, e gerar um currículo formatado, pronto para download.
+## ⚙️ Funcionalidades
+- 🧑 Inserção de dados pessoais (nome, data de nascimento, idade, email, telefone)  
+- 📅 Cálculo automático da idade via JavaScript  
+- ➕ Adição dinâmica de experiências profissionais e referências pessoais  
+- 🖨️ Geração de currículo em formato visual para impressão/download  
 
-## Funcionalidades
-- Inserção de dados pessoais (nome, data de nascimento, idade, email, telefone)  
-- Cálculo automático da idade via JavaScript  
-- Adição dinâmica de experiências profissionais e referências pessoais  
-- Geração de currículo em formato visual para impressão ou download  
-
-## Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** PHP  
-- **Bibliotecas adicionais:** jQuery (para campos dinâmicos)  
+- **Bibliotecas adicionais:** jQuery  
+
+## 🚀 Como Usar
+1. Clone o repositório:  
+```bash
+git clone https://github.com/EmillyAnndarade/Gerador_Curriculo.git
+http://localhost/Gerador_Curriculo/index.php/index.php
 
 
 
