@@ -21,7 +21,40 @@ O sistema permite que o usuário preencha seus dados pessoais, experiências pro
 1. Abra o projeto no XAMPP em `localhost/Gerador_Curriculo`.
 2. Preencha o formulário com seus dados pessoais, experiências profissionais e referências.
 3. Clique em "Gerar Currículo" para visualizar e baixar seu currículo.
+# Gerador de Currículo
 
+Um sistema web que permite gerar currículos personalizados de forma prática e rápida, preenchendo um formulário com dados pessoais, experiências profissionais e referências.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Backend:** PHP  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework CSS:** Bootstrap  
+- **Bibliotecas JS:** jQuery (para adicionar campos dinamicamente)
+
+---
+
+## 🎨 Layout do Projeto
+O design do projeto foi criado no Figma, seguindo uma interface simples e amigável para o usuário.  
+# Gerador de Currículo
+
+Um sistema web que permite gerar currículos personalizados de forma prática e rápida, preenchendo um formulário com dados pessoais, experiências profissionais e referências.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Backend:** PHP  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework CSS:** Bootstrap  
+- **Bibliotecas JS:** jQuery (para adicionar campos dinamicamente)
+
+---
+
+## 🎨 Layout do Projeto
+O design do projeto foi criado no Figma, seguindo uma interface simples e amigável para o usuário.  
+https://www.figma.com/make/GDk9AtPGKLt2gLxuQRuxgv/Formul%C3%A1rio-de-Curr%C3%ADculo?node-id=0-1&t=kQZyJ5xktufRJfx7-1 
+ 
 ## Autor
 Emilly Anndarade  
 yminz5086@gmail.com
