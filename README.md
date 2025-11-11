@@ -27,14 +27,6 @@ Um sistema web que permite gerar currículos personalizados de forma prática e 
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **Backend:** PHP  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Framework CSS:** Bootstrap  
-- **Bibliotecas JS:** jQuery (para adicionar campos dinamicamente)
-
----
-
 ## 🎨 Layout do Projeto
 O design do projeto foi criado no Figma, seguindo uma interface simples e amigável para o usuário.  
 https://www.figma.com/make/KAslIulJQ1Grr5bMtw4Wk1/Gerador-de-Curr%C3%ADculo-Moderno?node-id=0-4&t=w6toFJWGstbfRR15-1 
